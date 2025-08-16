@@ -37,7 +37,7 @@ Battle-tested from building enterprise SaaS platforms and working at scale (Amaz
 
 This is my personal setup, but I'm happy to share! Feel free to fork and adapt these rules to your own style.
 
-*P.S. If you're building something cool with these rules, I'd love to hear about it! And if you need help building something bigger, check out [email me](mailto:ryan@stratussoftworks.dev).*
+*P.S. If you're building something cool with these rules, I'd love to hear about it! And if you need help building something bigger, feel free to [email me](mailto:ryan@stratussoftworks.dev).*
 
 ---
 
