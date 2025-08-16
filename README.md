@@ -1,6 +1,6 @@
 # My Cursor Rules for Vibe Coding in 2025 🚀
 
-Hey, I'm Ryan Wang, ex-faang engineer currenlty [building Daxtr.ai](daxtr.ai). These are the rules I use with [Cursor](https://cursor.sh/) to achieve that sweet spot of rapid and high-quality development.
+Hey, I'm Ryan Wang, ex-faang engineer currenlty building [Daxtr.ai](https://daxtr.ai). These are the rules I use with [Cursor](https://cursor.sh/) to achieve that sweet spot of rapid and high-quality development.
 
 With this setup + a solid project structure, I can usually one-shot feature requests with minimal bugs and rework. It's my personal recipe for productive, enjoyable coding sessions that actually ship to production.
 
