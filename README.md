@@ -1,6 +1,6 @@
 # My Cursor Rules for Vibe Coding in 2025 🚀
 
-Hey, I'm Ryan Wang, ex-FAANG engineer currently building [Daxtr.ai](https://daxtr.ai). These rules help me one-shot features with minimal bugs and rework.
+Hey, I'm Ryan Wang, ex-FAANG engineer currently building [Daxtr.ai](https://www.daxtr.ai). These rules help me one-shot features with minimal bugs and rework.
 
 ## 📁 What's Included
 
