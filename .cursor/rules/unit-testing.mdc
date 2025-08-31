@@ -24,10 +24,10 @@ describe("Feature", () => {
     it("should expected behavior", async () => {
       // Arrange
       const input = { /* test data */ };
-      
+
       // Act
       const result = await functionUnderTest(input);
-      
+
       // Assert
       expect(result).toEqual(expectedOutput);
     });
@@ -62,9 +62,9 @@ describe("fetchUserData", () => {
   it("should return user data when API call succeeds", async () => {
     const mockUser = { id: "1", name: "John" };
     vi.mocked(apiClient.get).mockResolvedValue(mockUser);
-    
+
     const result = await fetchUserData("1");
-    
+
     expect(result).toEqual(mockUser);
     expect(apiClient.get).toHaveBeenCalledWith("/users/1");
   });
